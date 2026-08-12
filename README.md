@@ -186,6 +186,6 @@ Autonomous line-following + obstacle-avoidance robot on **Arduino UNO**.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,100:0F172A&height=100&section=footer"/>
 
-📫 **divyanshi1735@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/divyanshijaiswal) &nbsp;·&nbsp; [GitHub](https://github.com/divyanshijaiswal)
+📫 **divyanshi1735@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/divyanshi-jaiswal-bbb47928a/) &nbsp;·&nbsp; [GitHub](https://github.com/divyanshi1735)
 
 </div>
